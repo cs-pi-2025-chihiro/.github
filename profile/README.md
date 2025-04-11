@@ -25,7 +25,7 @@ Centralizar e dar visibilidade aos trabalhos desenvolvidos por alunos e professo
 - 📤 **Solicitação de Publicação:** usuários enviam trabalhos para aprovação dos administradores.
 - 👨‍💼 **Painel Administrativo:** cadastro, edição, exclusão e aprovação de publicações.
 - 🔒 **Login e Acesso:** via OAuth2 Google e integração planejada com SUAP.
-- 📌 **Página Sobre Nós:** propósito do site, contatos e endereço.
+- 📌 **Página Sobre Nós:** [propósito do site, contatos e endereço.](https://chihiro-front.s3.sa-east-1.amazonaws.com/team-chihiro-front/andrey/planos-precos/index.html)
 
 ---
 
