@@ -24,8 +24,9 @@ Centralizar e dar visibilidade aos trabalhos desenvolvidos por alunos e professo
 - 🔍 **Busca e Filtros:** por tipo, área de conhecimento, título, autor e palavras-chave.
 - 📤 **Solicitação de Publicação:** usuários enviam trabalhos para aprovação dos administradores.
 - 👨‍💼 **Painel Administrativo:** cadastro, edição, exclusão e aprovação de publicações.
-- 🔒 **Login e Acesso:** via OAuth2 Google e integração planejada com SUAP.
-- 📌 **Página Sobre Nós:** [site, contatos e endereço.](https://chihiro-front.s3.sa-east-1.amazonaws.com/team-chihiro-front/index.html)
+- 🔒 **Login e Acesso:** via OAuth2 com SUAP.
+- 📌 **Você pode aceesá-lo aqui:** [site, contatos e endereço.](https://divulgaif.com.br)
+- 🔨 **Ambiente de desenvolvimento:** Fique ligado no nosso [ambiente de testes](https://desenvolvimento.divulgaif.com.br) para acompanhar as novidades!
 
 ---
 
