@@ -8,7 +8,7 @@
 
 # 📢 DivulgaIF
 
-**DivulgaIF** é uma vitrine digital para divulgar projetos acadêmicos desenvolvidos no IFPR – Campus Paranavaí, como artigos, eventos, TCCs, pesquisas, dissertações e softwares.
+O **DivulgaIF** é uma vitrine digital para divulgar projetos acadêmicos desenvolvidos no IFPR – Campus Paranavaí, como artigos, eventos, TCCs, pesquisas, dissertações e softwares.
 
 ---
 
