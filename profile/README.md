@@ -25,7 +25,7 @@ Centralizar e dar visibilidade aos trabalhos desenvolvidos por alunos e professo
 - 📤 **Solicitação de Publicação:** usuários enviam trabalhos para aprovação dos administradores.
 - 👨‍💼 **Painel Administrativo:** cadastro, edição, exclusão e aprovação de publicações.
 - 🔒 **Login e Acesso:** via OAuth2 com SUAP.
-- 📌 **Você pode aceesá-lo aqui:** [site, contatos e endereço.](https://divulgaif.com.br)
+- 📌 **Você pode acessá-lo em nosso** [site](https://divulgaif.com.br)
 - 🔨 **Ambiente de desenvolvimento:** Fique ligado no nosso [ambiente de testes](https://desenvolvimento.divulgaif.com.br) para acompanhar as novidades!
 
 ---
