@@ -1,7 +1,7 @@
 ## Readme da equipe Chihiro! 👋
 
 ### Scrum Master: Mateus Rakoski
-### POO: Andrey Santos
+### POO: Andrey Jodar
 ### Dev: Artur Flacon
 ### Dev Eduardo Ceciliato
 ### Dev: Igor Felipe
